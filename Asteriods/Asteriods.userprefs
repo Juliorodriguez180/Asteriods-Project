@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Tankmovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
     <Files>
-      <File FileName="Assets\Scripts\Tankmovement.cs" Line="25" Column="3" />
-      <File FileName="..\Asteroid-Tactical-Control-GPE-104\Asteriod Tactical-Control\Assets\Scripts\Mover.cs" Line="34" Column="1" />
+      <File FileName="Assets\Scripts\Tankmovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RockCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="17" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
